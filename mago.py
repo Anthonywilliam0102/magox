@@ -1,2 +1,0 @@
-
-dupla = ["Anthony", "Juan"]
